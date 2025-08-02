@@ -216,4 +216,4 @@ mod alternative_endings {
 
 ---
 
-*This architecture makes your code immediately recognizable while maintaining Rust's performance and safety guarantees. Every project becomes a story, every function a chapter, and every data transformation a character's journey.*
+*This architecture makes my code immediately recognizable while maintaining Rust's performance and safety guarantees. Every project becomes a story, every function a chapter, and every data transformation a character's journey.*
