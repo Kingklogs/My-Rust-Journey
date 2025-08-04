@@ -52,7 +52,7 @@ insights_find_their_permanent_home()
 *As I build projects with this approach, I'll link them here:*
 
 - 🚧 **Project 1**: blockchain_validator.rs
-- 🚧 **Project 2**: Coming soon...
+- 🚧 **Project 2**: defi_protocol_tool.rs
 - 🚧 **Project 3**: Coming soon...
 
 ## 🌱 Why I'm Sharing This
